@@ -38,3 +38,4 @@ I am a determined, results-oriented, and focused software engineer with an atten
 # Contact
 - sharipova.aig@gmail.com
 - <a href='https://www.linkedin.com/in/aigulsharipova/'>Linkedin</a>
+- <a href='https://www.instagram.com/aigul.intech/'
