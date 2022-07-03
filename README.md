@@ -12,8 +12,6 @@ I am a determined, results-oriented, and focused software engineer with an atten
 - JavaScript
 - ReactJS
 - NodeJS
-- Ruby
-- Rails
 ## Database
 - MySQL
 - MongoDB
