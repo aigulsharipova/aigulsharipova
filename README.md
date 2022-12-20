@@ -22,7 +22,6 @@ I am a determined, results-oriented, and focused software engineer with an atten
 - Heroku
 - Trello
 - Invisionapp
-- Heroku
 - Visual Studio Code
 - Netlify
 - Atom
