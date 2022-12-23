@@ -10,8 +10,8 @@ I am a determined, results-oriented, and focused software engineer with an atten
 - HTML5
 - CSS
 - JavaScript
-- ReactJS
-- NodeJS
+- React
+- Node
 ## Database
 - MySQL
 - MongoDB
