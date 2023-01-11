@@ -16,7 +16,6 @@ I am a determined, results-oriented, and focused software engineer with an atten
 - MySQL
 - MongoDB
 - Mongoose
-- SQL
 ## Other
 - Git/GitHub
 - Heroku
