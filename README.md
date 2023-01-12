@@ -23,7 +23,6 @@ I am a determined, results-oriented, and focused software engineer with an atten
 - Invisionapp
 - Visual Studio Code
 - Netlify
-- Atom
 
 # Education
 - General Assembly Coding Bootcamp
