@@ -12,6 +12,7 @@ I am a determined, results-oriented, and focused software engineer with an atten
 - JavaScript
 - React
 - Node
+- Python
 ## Database
 - MySQL
 - MongoDB
