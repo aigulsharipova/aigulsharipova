@@ -13,6 +13,7 @@ I am a determined, results-oriented, and focused software engineer with an atten
 - React
 - Node
 - Python
+- Django
 ## Database
 - MongoDB
 - Mongoose
